@@ -1,4 +1,4 @@
-Practice assignment from Udemy class on React ("React - The Complete Guide (incl Hooks, React Router, Redux").
+Practice assignment from Udemy class on React "React - The Complete Guide (incl Hooks, React Router, Redux").
 
 ------------------------------------------------------------------------------
 
